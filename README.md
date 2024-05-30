@@ -16,3 +16,5 @@
 
 ### Other 💬:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+![mwilko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilko&show_icons=true&theme=tokyonight) <a href="https://github.com/mwilko"><img alt="mwilko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwilko&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
