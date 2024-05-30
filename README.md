@@ -11,7 +11,7 @@
 ### Machine Learning & Data Science 🧠: 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Software Frameworks </>:
+### Software Frameworks for UI and App Development </>:
 ![React](https://img.shields.io/badge/react-29bef0?style=for-the-badge&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-2192b5?style=for-the-badge&logo=flutter&logoColor=white) ![BeeWare](https://img.shields.io/badge/🐝_beeware-F09436?style=for-the-badge&logo=beeware&logoColor=white)
 
 ### Other 💬:
