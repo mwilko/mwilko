@@ -45,7 +45,7 @@ Creating user-friendly interfaces and robust applications:
 Here are a few projects I've worked on recently:
 
 - **[Mobile Health App](https://github.com/mwilko/Mobile_Health_App)**: Mobile health application made to detect chronic conditions in users. This project was built with BeeWare, Scikit-Learn, Python, TensorFlow to name a few technologies.
-- **[Inventory Manager](https://github.com/mwilko/Inventory-Manager)**: Cross platform application made so users can keep track, edit, update, remove and maintain their product from a single application.
+- **[Inventory Manager](https://github.com/mwilko/Inventory-Manager)**: Cross platform application made so users can keep track, edit, update, remove and maintain their product from a single application. Made using Flutter, a cross-platform deploy and development framework. App backend was possible by Node.js configured in JavaScript, the database was MongoDB Atlas, a cloud based NoSQL database solution.
 
 ### Connect with me 🌐:
 - [LinkedIn](https://www.linkedin.com/in/max-wilkinson-63716a216/)
