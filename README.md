@@ -36,7 +36,7 @@ Keen interest in AI and data science, I have worked with several tools and frame
 ### Software Frameworks for UI and App Development </>:
 Creating user-friendly interfaces and robust applications:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) !![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![BeeWare](https://img.shields.io/badge/🐝_beeware-F09436?style=for-the-badge&logo=beeware&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![BeeWare](https://img.shields.io/badge/🐝_beeware-F09436?style=for-the-badge&logo=beeware&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Notable Frameworks 📦:
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
