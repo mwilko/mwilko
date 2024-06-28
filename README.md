@@ -1,6 +1,6 @@
 ## Student and Multidisciplinary Software/Data Engineer 👋
 
-Hi there! I'm Max, a passionate software engineer currently pursuing BSc Computer Science at the University of Lincoln. I enjoy helping businesses enhance their IT solutions through data engineering, automation, and software developement (to name a few). My goal is to create impactful software solutions that solve real-world problems efficiently and effectively.
+Hello! I'm Max, a dedicated software engineer currently pursuing a BSc in Computer Science at the University of Lincoln. I specialize in enhancing business IT solutions through data engineering, automation, and software development. My focus is on delivering impactful technology solutions that drive business growth and streamline operations by solving everyday business problems.
 
 ## Table of Contents
 - [Languages](#languages)
