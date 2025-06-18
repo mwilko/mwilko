@@ -1,6 +1,6 @@
-## Student and Multidisciplinary Software/Data Engineer 👋
+## Multidisciplinary Software/Data Engineer 👋
 
-Hello! I'm Max, a dedicated software engineer currently pursuing a BSc in Computer Science at the University of Lincoln. I specialize in enhancing business IT solutions through data engineering, automation, and software development. My focus is on delivering impactful technology solutions that drive business growth and streamline operations by solving everyday business problems.
+Hello! I'm Max, a dedicated software engineer currently working for London Stock Exchange Group in the Data Analytics and Engineering sector. I specialize in enhancing business IT solutions through data engineering, automation, and software development. My focus is on delivering impactful technology solutions that drive business growth and streamline operations by solving everyday business problems.
 
 ## Table of Contents
 - [Languages](#languages)
