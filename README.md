@@ -1,6 +1,6 @@
 # Max Wilkinson — Multidisciplinary Software & Data Engineer
 
-**Technology Graduate @ London Stock Exchange Group | Data Analytics & Engineering**
+**Technology Graduate @ London Stock Exchange Group | Data & Analytics Engineering**
 
 I design and build scalable software and data solutions that streamline business operations and unlock insights. Passionate about combining software development, data engineering, and ML to solve real-world problems.
 
